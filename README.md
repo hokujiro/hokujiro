@@ -5,7 +5,7 @@ I'm Pilar, a Computer Engineer based in Spain.
 I'm currently working professionally as an Android Engineer (>3 Years experience)
 
 I'm creating an application for people with motivational issues, to help them create an organization habit based on motivational theories.
-It's Android-first, but iOS and Web is definitely in the plans.
+It's Android-first, but iOS and Web are definitely in the plans.
 
 I'm looking for collaborators :)
 
