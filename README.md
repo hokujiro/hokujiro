@@ -1,6 +1,7 @@
 ## Hi there 🍎
 
 I'm currently building a platform to help people with motivation issues, like myself, to push forward and be able to accomplish things for themselves.
+
 I'm building the thing for Android, using all of the knowledge that years of knowing myself and other people like me have taught me. 
 (The "analogic" method has already helped many people, so I'm sure about this) 
 
