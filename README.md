@@ -1,6 +1,6 @@
 # 🎀 About Me:
 
-I'm Pilar, a Computer Engineer based in Spain.
+I'm Pipi, a Computer Engineer based in Spain.
 
 I'm currently working professionally as an Android Engineer (>3 Years experience)
 
