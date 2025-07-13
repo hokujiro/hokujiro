@@ -1,10 +1,10 @@
 # 💫 About Me:
 I'm Pilar, a Computer Engineer based in Spain. 
 <br><br>I'm currently working professionally as an Android Engineer (>3 Years experience)
-<br><br>I'm creating an application for people with motivational issues. 
-<br>First for Android, then for iOS. 
+<br><br>I'm creating an application for people with motivational issues. <br>First for Android, then for iOS. 
 
 <br>I'm looking for collaborators :)
+
 <br>The method behind it is something I've been building and mastering along the years, helping a lot of friends in the way, so I know this will be something big when it comes out in the light!<br><br>
 
 
